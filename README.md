@@ -1,6 +1,6 @@
-# LMV-GSS
+# MM-DTI
 
-**LMV-GSS: A Linear-Complexity Multi-View Graph State-Space Learning Framework for Drug–Target Interaction Prediction**
+**Decoding Heterogeneous Biological Networks via Meta-Path-Guided Mamba State Transitions for Interpretable Drug–Target Interaction Prediction**
 
 The code is currently being organized and will be made publicly available in this repository at a later date. Thank you for your interest and patience.
 
